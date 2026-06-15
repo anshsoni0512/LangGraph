@@ -1,2 +1,4 @@
 .env
 /meraenv
+.chatbot.db
+docker-compose.yml
