@@ -1,4 +1,4 @@
-# LangGraph Learning Journey
+# Complete LangGraph Guide
 
 A progressive series of Jupyter notebooks exploring LangChain and LangGraph — from basic LLM calls to a full Corrective RAG (CRAG) pipeline.
 
