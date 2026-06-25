@@ -232,6 +232,3 @@ workflow.invoke({"question": "..."}, config={"configurable": {"thread_id": "1"}}
 
 `Langchain and LangGraph Interview QA.pdf` — 100 interview Q&As used as the knowledge base in `15_crag.ipynb`.
 
-## Note
-
-Add `.env` and `meraenv/` to `.gitignore` — never commit API keys or the virtual environment.
